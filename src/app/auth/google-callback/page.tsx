@@ -18,6 +18,6 @@ export default function GoogleCallback() {
     }
   }, [params]);
 
-  return <div>Logging in...</div>;
+  return <div>Temirlan is gay! Logging in...</div>;
 };
 
